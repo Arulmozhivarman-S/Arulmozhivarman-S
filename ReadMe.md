@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im currently a masters student focusing on backend distributed systems and i have strong DSA knowledge and I'm a knight at leetcode and solved over 2000+ problems
+Im currently a masters student focusing on backend distributed systems and a open source contributor. I have strong DSA knowledge and I'm a knight at leetcode and solved over 2000+ problems on various platforms like Leetcode, codeforces, codechef and geekforgeeks.
 
 
 ## 🌐 Socials:
