@@ -1,5 +1,22 @@
 # 💫 About Me:
-Im currently a masters student focusing on backend distributed systems and a open source contributor. I have strong DSA knowledge and I'm a knight at leetcode and solved over 2000+ problems on various platforms like Leetcode, codeforces, codechef and geekforgeeks.
+Hi, I’m Arulmozhivarman Selvaraj! 👋
+
+I’m currently pursuing my Master’s in Computer Science at Northeastern University, with a strong focus on backend engineering and distributed systems.
+
+I have hands-on experience building backend services and distributed applications using Java, Spring Boot, MySQL, Redis, and Kafka. I enjoy designing scalable REST APIs, developing event-driven microservices, and solving complex problems involving data consistency, concurrency, and system reliability.
+
+Technical Focus & Skills
+
+• Backend Development: Java, Spring Boot, REST APIs, Microservices
+• Databases amp; Storage: MySQL, Redis, SQL, Database Design
+• Distributed Systems: Kafka, Event-Driven Architecture, Concurrency, System Design
+• Tools amp; Infrastructure: Docker, Git, AWS
+
+Through my projects and software engineering experience, I’ve worked on backend workflows, event-driven systems, and reliable data processing. I’m passionate about understanding how large-scale systems operate and building services that are efficient, resilient, and maintainable.
+
+🚀 I’m actively seeking Summer 2027 Backend Software Engineering Internship opportunities, where I can contribute to large-scale infrastructure, distributed systems, and impactful products while learning from exceptional engineering teams.
+
+I’m always open to connecting with engineers and teams working on challenging backend and infrastructure problems. Let’s connect!
 
 
 ## 🌐 Socials:
